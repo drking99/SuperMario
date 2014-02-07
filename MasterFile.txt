@@ -1,6 +1,6 @@
-This is the master file where everyone needs to contribute something...
-<<<<<<< HEAD
+This is the master file where everyone needs to contribute something..
 Jacob was here
-=======
 This is a change from Dinesh.
->>>>>>> 33dc47f3d23a6b3da69a9a54f57eea7f504665dd
+This is a change from Dinesh.
+This is a change from Jen.
+
